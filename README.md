@@ -1,0 +1,2 @@
+#Tracking Prices
+The code extract the name and price of the product from eCommerce website and check the if the price is reduce or not. If the price is reduce it will sent URL to your mail. Also It checks the price once in a day
